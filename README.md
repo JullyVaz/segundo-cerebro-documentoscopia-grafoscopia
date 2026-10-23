@@ -123,9 +123,11 @@ A combinação de diferentes materiais de estudo, consultas orientadas por fonte
 
 O notebook funciona como um ambiente de apoio ao estudo. A análise crítica e a conferência das fontes continuam sendo necessárias para avaliar a confiabilidade das informações.
 
+
 ## 11. Links do projeto
 
-- **Repositório GitHub:** https://github.com/JullyVaz/segundo-cerebro-documentoscopia-grafoscopia
 - **Gemini Notebook:** https://notebook.google.com/notebook/811aa1b7-5c3c-4ba2-8b05-9c7eff8e52f6
 - **Mapa mental:** https://notebook.google.com/notebook/811aa1b7-5c3c-4ba2-8b05-9c7eff8e52f6/artifact/88584338-8f33-4c24-8456-8bfb12973931
+- **Quiz de revisão — Grafoscopia:** https://notebook.google.com/notebook/811aa1b7-5c3c-4ba2-8b05-9c7eff8e52f6
+
 
