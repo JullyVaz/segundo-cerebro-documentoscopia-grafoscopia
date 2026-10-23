@@ -138,7 +138,7 @@ Registro do quiz gerado no notebook, mostrando uma questão de revisão e suas a
 
 [**Visualizar evidência 5 — Quiz de Grafoscopia**](evidencias/05-quiz-grafoscopia.png)
 
-[**Acessar o notebook para consultar o quiz**](https://notebook.google.com/notebook/811aa1b7-5c3c-4ba2-8b05-9c7eff8e52f6)
+[**Acessar o notebook para consultar o quiz**]https://notebook.google.com/notebook/811aa1b7-5c3c-4ba2-8b05-9c7eff8e52f6/artifact/8657de1e-4627-433c-b7fe-66b85505d2c7
 
 ## 10. Considerações finais
 
