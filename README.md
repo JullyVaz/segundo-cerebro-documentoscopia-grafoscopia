@@ -1,4 +1,3 @@
-
 # Segundo Cérebro — Documentoscopia e Grafoscopia
 
 ## 1. Sobre o projeto
@@ -77,11 +76,11 @@ Material visual elaborado para organizar os principais eixos de estudo e facilit
 
 ### 6.2. Quiz de revisão — Grafoscopia
 
-Recurso de apoio à revisão dos conteúdos estudados, acessível pela página do notebook.
+Recurso de apoio à revisão dos conteúdos estudados, com questões e alternativas de resposta.
 
-[**Acessar o Gemini Notebook para consultar o quiz**](https://notebook.google.com/notebook/811aa1b7-5c3c-4ba2-8b05-9c7eff8e52f6)
+[**Acessar o notebook para consultar o quiz**](https://notebook.google.com/notebook/811aa1b7-5c3c-4ba2-8b05-9c7eff8e52f6)
 
-**Observação:** o endereço informado para o quiz abre a página principal do notebook. O acesso direto ao artefato específico deverá ser acrescentado quando seu link for confirmado.
+**Observação:** o link acima abre a página principal do notebook. O acesso direto ao artefato específico do quiz poderá ser incluído quando seu endereço for confirmado.
 
 ## 7. Processo de utilização
 
@@ -101,19 +100,45 @@ As respostas produzidas pela IA devem ser verificadas em relação às fontes ci
 
 A presença de uma citação não garante, por si só, que uma resposta esteja correta. Por isso, é importante conferir se o trecho citado realmente sustenta a informação apresentada.
 
-As evidências do projeto poderão incluir capturas de tela de perguntas, respostas e citações verificadas, respeitando os direitos autorais e a privacidade.
+As evidências do projeto incluem capturas de tela de fontes, consultas, respostas com citações e materiais gerados, respeitando os direitos autorais e a privacidade.
 
 ## 9. Evidências do projeto
 
-Esta seção poderá reunir registros do desenvolvimento do segundo cérebro, incluindo:
+As capturas de tela a seguir documentam as principais etapas de utilização do Gemini Notebook, desde a organização das fontes até a geração de materiais de revisão.
 
-- Captura de tela das fontes adicionadas ao notebook.
-- Captura de tela das instruções de comportamento da IA.
-- Exemplos de perguntas e respostas com citações verificadas.
-- Captura de tela do mapa mental.
-- Captura de tela do quiz de revisão.
+### 9.1. Evidência 1 — Fontes adicionadas ao notebook
 
-Os arquivos de evidência serão adicionados ao repositório após sua seleção e conferência.
+Registro dos documentos em PDF, vídeos do YouTube e notas de estudo reunidos no notebook.
+
+[**Visualizar evidência 1 — Fontes do notebook**](evidencias/01-fontes-do-notebook.png)
+
+### 9.2. Evidência 2 — Comparação de conceitos com citações
+
+Consulta que compara Documentoscopia e Grafoscopia com base no material das aulas, apresentando os objetos de estudo, os elementos examinados, as aplicações e as técnicas utilizadas, acompanhados de citações.
+
+[**Visualizar evidência 2 — Comparação de conceitos**](evidencias/02-comparacao-conceitos-citacoes.png)
+
+### 9.3. Evidência 3 — Consulta e visualização da fonte
+
+Registro de uma consulta sobre a estrutura de um laudo pericial ou parecer técnico, com identificação do documento utilizado como fonte pelo notebook.
+
+[**Visualizar evidência 3 — Verificação da fonte**](evidencias/03-verificacao-da-fonte.png)
+
+### 9.4. Evidência 4 — Mapa mental
+
+Registro do mapa mental gerado no Gemini Notebook para organizar visualmente os conteúdos de Documentoscopia e Grafoscopia.
+
+[**Visualizar evidência 4 — Mapa mental**](evidencias/04-mapa-mental.png)
+
+[**Acessar o mapa mental no Gemini Notebook**](https://notebook.google.com/notebook/811aa1b7-5c3c-4ba2-8b05-9c7eff8e52f6/artifact/88584338-8f33-4c24-8456-8bfb12973931)
+
+### 9.5. Evidência 5 — Quiz de revisão de Grafoscopia
+
+Registro do quiz gerado no notebook, mostrando uma questão de revisão e suas alternativas de resposta.
+
+[**Visualizar evidência 5 — Quiz de Grafoscopia**](evidencias/05-quiz-grafoscopia.png)
+
+[**Acessar o notebook para consultar o quiz**](https://notebook.google.com/notebook/811aa1b7-5c3c-4ba2-8b05-9c7eff8e52f6)
 
 ## 10. Considerações finais
 
@@ -123,11 +148,9 @@ A combinação de diferentes materiais de estudo, consultas orientadas por fonte
 
 O notebook funciona como um ambiente de apoio ao estudo. A análise crítica e a conferência das fontes continuam sendo necessárias para avaliar a confiabilidade das informações.
 
-
 ## 11. Links do projeto
 
 - **Gemini Notebook:** https://notebook.google.com/notebook/811aa1b7-5c3c-4ba2-8b05-9c7eff8e52f6
-- **Mapa mental:** https://notebook.google.com/notebook/811aa1b7-5c3c-4ba2-8b05-9c7eff8e52f6/artifact/88584338-8f33-4c24-8456-8bfb12973931
-- **Quiz de revisão — Grafoscopia:** [https://notebook.google.com/notebook/811aa1b7-5c3c-4ba2-8b05-9c7eff8e52f6](https://notebook.google.com/notebook/811aa1b7-5c3c-4ba2-8b05-9c7eff8e52f6/artifact/8657de1e-4627-433c-b7fe-66b85505d2c7)
-
-
+- **Mapa mental — Documentoscopia e Grafoscopia:** https://notebook.google.com/notebook/811aa1b7-5c3c-4ba2-8b05-9c7eff8e52f6/artifact/88584338-8f33-4c24-8456-8bfb12973931
+- **Quiz de revisão — Grafoscopia:** https://notebook.google.com/notebook/811aa1b7-5c3c-4ba2-8b05-9c7eff8e52f6
+- **Pasta de evidências:** [Visualizar evidências no GitHub](https://github.com/JullyVaz/segundo-cerebro-documentoscopia-grafoscopia/tree/main/evidencias)
