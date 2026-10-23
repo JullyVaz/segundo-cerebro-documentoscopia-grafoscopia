@@ -78,7 +78,7 @@ Material visual elaborado para organizar os principais eixos de estudo e facilit
 
 Recurso de apoio à revisão dos conteúdos estudados, com questões e alternativas de resposta.
 
-[**Acessar o notebook para consultar o quiz**](https://notebook.google.com/notebook/811aa1b7-5c3c-4ba2-8b05-9c7eff8e52f6)
+[**Acessar o notebook para consultar o quiz**][(https://notebook.google.com/notebook/811aa1b7-5c3c-4ba2-8b05-9c7eff8e52f6)](https://notebook.google.com/notebook/811aa1b7-5c3c-4ba2-8b05-9c7eff8e52f6/artifact/8657de1e-4627-433c-b7fe-66b85505d2c7)
 
 **Observação:** o link acima abre a página principal do notebook. O acesso direto ao artefato específico do quiz poderá ser incluído quando seu endereço for confirmado.
 
@@ -152,5 +152,5 @@ O notebook funciona como um ambiente de apoio ao estudo. A análise crítica e a
 
 - **Gemini Notebook:** https://notebook.google.com/notebook/811aa1b7-5c3c-4ba2-8b05-9c7eff8e52f6
 - **Mapa mental — Documentoscopia e Grafoscopia:** https://notebook.google.com/notebook/811aa1b7-5c3c-4ba2-8b05-9c7eff8e52f6/artifact/88584338-8f33-4c24-8456-8bfb12973931
-- **Quiz de revisão — Grafoscopia:** https://notebook.google.com/notebook/811aa1b7-5c3c-4ba2-8b05-9c7eff8e52f6
+- **Quiz de revisão — Grafoscopia:** [https://notebook.google.com/notebook/811aa1b7-5c3c-4ba2-8b05-9c7eff8e52f6](https://notebook.google.com/notebook/811aa1b7-5c3c-4ba2-8b05-9c7eff8e52f6/artifact/8657de1e-4627-433c-b7fe-66b85505d2c7)
 - **Pasta de evidências:** [Visualizar evidências no GitHub](https://github.com/JullyVaz/segundo-cerebro-documentoscopia-grafoscopia/tree/main/evidencias)
